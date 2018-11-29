@@ -1,0 +1,117 @@
+/* Coolors Exported Palette - coolors.co/c2ff17-1be7ff-ff8360-e8e288-7dce82 */
+
+
+
+/* RGB */
+$brightGreen: rgba(194, 255, 23, 1);
+$blue: rgba(27, 231, 255, 1);
+$red: rgba(255, 131, 96, 1);
+$yellow: rgba(232, 226, 136, 1);
+$green: rgba(125, 206, 130, 1);
+
+$blueBlack: rgb(11, 60, 73);
+$purple: rgb(115, 25, 99);
+
+$offWhite: rgb(255, 253, 253);
+$grey: rgb(203, 210, 208);
+$lightGreen: rgb(221, 255, 128);
+$darkBlack: rgb(50, 65, 6);
+
+$white: rgb(255,255,255);
+$black: rgb(0,0,0);
+
+.accent-1, .active-selction, .minor-injury, .selected-type, .active {
+  background-color: $brightGreen;
+}
+
+.accent-1-text, .active-selction-text, .minor-injury-text, .selected-type-text, .active-text {
+  color: $brightGreen;
+}
+
+.accent-2, .substitute {
+  background-color: $blue;
+}
+
+.accent-2-text, .substitute-text {
+  color: $blue;
+}
+
+.alert-d, .serious-injury, .injured {
+  background-color: $red;
+}
+
+.alert-d-text, .serious-injury-text, .injured-text {
+  color: $red;
+}
+
+.alert-w, .moderate-injury {
+  background-color: $yellow;
+}
+
+.alert-w-text, .moderate-injury-text {
+  color: $yellow;
+}
+
+.alert-s {
+  background-color: $green;
+}
+
+.alert-s-text {
+  color: $green;
+}
+
+.midfielder {
+  background-color: $blueBlack;
+}
+
+.midfielder-text {
+  color: $blueBlack;
+}
+
+.goalkeeper, .watch {
+  background-color: $purple;
+}
+
+.goalkeeper-text, .watch-text {
+  color: $purple;
+}
+
+.defender {
+  background-color: $offWhite;
+}
+
+.defender-text {
+  color: $offWhite;
+}
+
+.forward, .unselected-type, .historical {
+  background-color: $grey;
+}
+
+.forward-text, .unselected-type-text, .historical-text {
+  color: $grey;
+}
+
+.selected-group {
+  background-color: $lightGreen;
+}
+
+.selected-group-text {
+  color: $lightGreen;
+}
+
+.unselected-group, .inactive {
+  background-color: $darkBlack;
+}
+
+.unselected-group-text, .inactive-text {
+  color: $darkBlack;
+}
+
+.white {
+  background-color: $white;
+}
+
+.white-text {
+  color: $white;
+}
