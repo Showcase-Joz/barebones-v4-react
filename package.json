@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Showcase-Joz/barebones-v4-react.git"
+    "url": "git+https://git-codecommit.us-east-2.amazonaws.com/v1/repos/less-farm"
   },
   "scripts": {
     "start": "concurrently -n 'Gulp Tasks,Run Server' -c 'bgBlue.bold,bgGreen.bold' 'gulp css' 'react-scripts start' ",
