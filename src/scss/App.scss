@@ -31,6 +31,7 @@
     #Accessibility
     #Media Queries
 */
+
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
 
 /* #Preloader */
@@ -1465,7 +1466,7 @@ svg.back {
   position: relative;
   z-index: 10;
   overflow: hidden;
-  background-image: url('../images/training-intelligence-login.jpg');
+  background-image: url('images/training-intelligence-login.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left center;
@@ -3457,7 +3458,7 @@ a.user {
   z-index: 99;
   position: absolute;
   top: -200%;
-  background: url(../images/bottom-fade.png) bottom left repeat-x;
+  background: url(images/bottom-fade.png) bottom left repeat-x;
   width: calc(100% - 30px);
   left: 0;
 }
